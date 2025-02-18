@@ -1,6 +1,3 @@
 #!/bin/bash
-echo
-ls 
--la 
-/..
-/boot/
+echo 
+ls -la \../boot/basics
