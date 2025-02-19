@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod  755 --verbose
+chmod  049 hello
