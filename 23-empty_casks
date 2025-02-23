@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo find /mypath/mydir -empty -type d | awk -F "/" '{ print $NF }'
